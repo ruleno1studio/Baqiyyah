@@ -193,7 +193,7 @@ fun ContactUsScreen(
                     // Action button to open Email app directly
                     Button(
                         onClick = {
-                            val recipient = "ruleno1studio@hotmail.com"
+                            val recipient = "ruleno1corp@gmail.com"
                             val subject = "Baqiyyah Support - Suggestions & Feedback"
                             val encodedSubject = Uri.encode(subject)
                             val mailtoUri = Uri.parse("mailto:$recipient?subject=$encodedSubject")
