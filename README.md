@@ -29,12 +29,12 @@ Baqiyyah is more than just an app; it is your daily spiritual companion. Whether
 ## 📱 Screenshots
 
 <p align="center">
-  <img src="screenshots/home.jpg" width="140">
-  <img src="screenshots/quran.jpg" width="140">
-  <img src="screenshots/hadeeth.jpg" width="140">
-  <img src="screenshots/goals.jpg" width="140">
-  <img src="screenshots/more.jpg" width="140">
-  <img src="screenshots/feedback.jpg" width="140">
+  <img src="https://github.com/ruleno1studio/Baqqiyah/blob/assets/screenshots/home.jpg" width="140">
+  <img src="https://github.com/ruleno1studio/Baqqiyah/blob/assets/screenshots/quran.jpg" width="140">
+  <img src="https://github.com/ruleno1studio/Baqqiyah/blob/assets/screenshots/hadeeth.jpg" width="140">
+  <img src="https://github.com/ruleno1studio/Baqqiyah/blob/assets/screenshots/goals.jpg" width="140">
+  <img src="https://github.com/ruleno1studio/Baqqiyah/blob/assets/screenshots/more.jpg" width="140">
+  <img src="https://github.com/ruleno1studio/Baqqiyah/blob/assets/screenshots/feedback.jpg" width="140">
 </p>
 
 ## 🛠️ Technology
