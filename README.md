@@ -44,7 +44,7 @@ Baqiyyah is an Android application developed as a collaborative project under **
 * **Platform:** Android
 * **Language:** Kotlin
 * **UI:** Jetpack Compose
-- **Development:** Muhammad Waseem & Muhammad Samran
+- **Designing and Development:** Muhammad Waseem & Muhammad Samran
 - **Development Environment:** Android Studio + Google AI Studio
 ## 🌐 Data Sources & APIs
 
