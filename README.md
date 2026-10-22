@@ -30,15 +30,15 @@ Baqiyyah is more than just an app; it is your daily spiritual companion. Whether
 ## 📱 Screenshots
 
 <p align="center">
-  <img src="https://github.com/ruleno1studio/Baqqiyah/blob/assets/screenshots/home.png" width="140">
-  <img src="https://github.com/ruleno1studio/Baqqiyah/blob/assets/screenshots/quran.png" width="140">
-  <img src="https://github.com/ruleno1studio/Baqqiyah/blob/assets/screenshots/quran_inside.png" width="140">
-  <img src="https://github.com/ruleno1studio/Baqqiyah/blob/assets/screenshots/hadeeth.png" width="140">
-  <img src="https://github.com/ruleno1studio/Baqqiyah/blob/assets/screenshots/goals.png" width="140">
-  <img src="https://github.com/ruleno1studio/Baqqiyah/blob/assets/screenshots/report_inside.png" width="140">
-  <img src="https://github.com/ruleno1studio/Baqqiyah/blob/assets/screenshots/more.png" width="140">
-  <img src="https://github.com/ruleno1studio/Baqqiyah/blob/assets/screenshots/happiness.png" width="140">
-  <img src="https://github.com/ruleno1studio/Baqqiyah/blob/assets/screenshots/feedback.png" width="140">
+  <img src="https://github.com/ruleno1studio/Baqiyyah/blob/assets/screenshots/home.png" width="140">
+  <img src="https://github.com/ruleno1studio/Baqiyyah/blob/assets/screenshots/quran.png" width="140">
+  <img src="https://github.com/ruleno1studio/Baqiyyah/blob/assets/screenshots/quran_inside.png" width="140">
+  <img src="https://github.com/ruleno1studio/Baqiyyah/blob/assets/screenshots/hadeeth.png" width="140">
+  <img src="https://github.com/ruleno1studio/Baqiyyah/blob/assets/screenshots/goals.png" width="140">
+  <img src="https://github.com/ruleno1studio/Baqiyyah/blob/assets/screenshots/report_inside.png" width="140">
+  <img src="https://github.com/ruleno1studio/Baqiyyah/blob/assets/screenshots/more.png" width="140">
+  <img src="https://github.com/ruleno1studio/Baqiyyah/blob/assets/screenshots/happiness.png" width="140">
+  <img src="https://github.com/ruleno1studio/Baqiyyah/blob/assets/screenshots/feedback.png" width="140">
 </p>
 
 ## 🛠️ Technology
